@@ -1,0 +1,7 @@
+make
+git
+vim
+zsh
+curl
+wget
+ssh-client
